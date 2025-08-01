@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pdyrahul" alt="pdyrahul" /></a> </p>
 
-- 🌱 I’m currently learning **Next JS ,React JS , AWS**
+- 🌱 I’m currently learning **BAAS, AWS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pdyrahul](https://github.com/pdyrahul)
 
